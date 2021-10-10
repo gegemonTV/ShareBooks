@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "904165949989",
+    "project_id": "booksreview-bccb3",
+    "storage_bucket": "booksreview-bccb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904165949989:android:5a22928e42731a6a1235cc",
+        "android_client_info": {
+          "package_name": "com.minerva.booksreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904165949989-sktl3hr0egbi1q68apj1f8bn6mo6bo86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZumgUwiDfU3fUMKqdNq8X0lAJmvJS9bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904165949989-sktl3hr0egbi1q68apj1f8bn6mo6bo86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904165949989:android:deda8ba8237884de1235cc",
+        "android_client_info": {
+          "package_name": "com.minerva.sharebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904165949989-sktl3hr0egbi1q68apj1f8bn6mo6bo86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZumgUwiDfU3fUMKqdNq8X0lAJmvJS9bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904165949989-sktl3hr0egbi1q68apj1f8bn6mo6bo86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

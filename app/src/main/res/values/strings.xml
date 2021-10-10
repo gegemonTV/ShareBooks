@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShareBooks</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_books_sharing">Books Sharing</string>
+    <string name="title_user">User</string>
+    <string name="not_signed_in">You are not signed in.\nTo see this page you need to sign in or sign up:</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_wd">Email</string>
+    <string name="password">Password</string>
+    <string name="nickname_wd">Nickname</string>
+    <string name="subscribe">Subscribe</string>
+</resources>
